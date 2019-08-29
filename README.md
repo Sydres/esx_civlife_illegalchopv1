@@ -1,5 +1,6 @@
 # CivLife RP Illegal ChopShop
 
+[![N|Solid](https://i.imgur.com/kChw9D7.png)](https://discord.gg/HNcGftj)
 [![N|Solid](https://i.imgur.com/agZegpm.png)](https://discord.gg/HNcGftj)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
